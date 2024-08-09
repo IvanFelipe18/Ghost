@@ -14,6 +14,7 @@ const SUPPORTED_LOCALES = [
     'fa', // Persian/Farsi
     'fi', // Finnish
     'fr', // French
+    'fil', // Filipino
     'gd', // Gaelic (Scottish)
     'hr', // Croatian
     'hu', // Hungarian
